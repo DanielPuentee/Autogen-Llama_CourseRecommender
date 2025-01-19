@@ -1,0 +1,27 @@
+1. Machine Learning
+- Machine Learning Crash Course - Google Developers
+- Supervised Machine Learning: Regression and Classification - Coursera
+- Deep Learning Specialization - DeepLearning.AI
+- Machine Learning Specialization - Coursera
+- Machine Learning for Healthcare - Stanford University
+
+2. Natural Language Processing (NLP)
+- Natural Language Processing Specialization - Coursera
+- Natural Language Processing with Attention Models - Coursera
+- Natural Language Processing with Classification and Vector Spaces - Coursera
+- Speech Processing: Introduction to Speech Recognition - Georgia Tech
+- Building Conversational Experiences with Dialogflow - Coursera
+
+3. Computer Vision
+- Computer Vision Basics - Coursera
+- Convolutional Neural Networks - Coursera
+- Advanced Computer Vision with TensorFlow - Coursera
+- Generative Adversarial Networks (GANs) Specialization - Coursera
+- Self-Driving Cars Specialization - Coursera
+
+4. AI for Business and Decision Making
+- AI For Everyone - Coursera
+- Business Analytics Specialization - Coursera
+- AI in Marketing - Coursera
+- AI for Supply Chain Management - Coursera
+- AI Ethics: Global Perspectives - edX
