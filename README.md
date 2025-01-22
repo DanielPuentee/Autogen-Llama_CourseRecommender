@@ -1,4 +1,4 @@
-# LangGraph + Mistral: CV Evaluator Agent System
+# Autogen Multi-Agent Ecosystem: Profile Analysis with Free LLMs
 
 <img title="Logo" alt="Alt text" src="/imgs/cover_page.png">
 
